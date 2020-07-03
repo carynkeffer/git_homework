@@ -3,5 +3,3 @@
 "quote again"
 
 "third quote"
-
-"fourth quote"
